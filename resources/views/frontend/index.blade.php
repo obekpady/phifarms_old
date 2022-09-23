@@ -1206,7 +1206,7 @@ Version: 1.0.0
 										</div>
 									</div>
 								</div>
-								<!-- Add Pagination -->
+								<!-- Add Pagination 4444-->
 								<div class="swiper-pagination"></div>
 							</div>
 						</div>
