@@ -465,7 +465,7 @@ Version: 1.0.0
 							</div>
 							<div class="video_block">
 								<div class="video_btn">
-									<a href="https://www.youtube.com/watch?v=tqwRLdBsFw8" class="play_video"><span class="pulse"><i class="fa fa-play" aria-hidden="true"></i></span> watch video</a>
+									<a href="https://www.youtube.com/shorts/BUCn1rEp18o" class="play_video"><span class="pulse"><i class="fa fa-play" aria-hidden="true"></i></span> watch video</a>
 								</div>
 								<a href="javascript:;" class="clv_btn">read more</a>
 							</div>
@@ -702,18 +702,18 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="shop_slide">
 											<div class="item_image">
-												<img src="https://via.placeholder.com/195x128" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/eggs.png')}}" alt="image" class="img-fluid" />
 											</div>
-											<h5>fresh meat</h5>
-											<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+											<h5>fresh eggs</h5>
+											<h6><span><i class="" aria-hidden="true"></i></span>N1800/crates</h6>
 											<div class="item_overlay">
 												<input type="checkbox" id="wishlist1" />
 												<label for="wishlist1">
 													<span class="wish_icon"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 													<span class="wish_icon"><i class="fa fa-heart" aria-hidden="true"></i></span>
 												</label>
-												<h5>fresh meat</h5>
-												<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+												<h5>fresh eggs</h5>
+												<h6><span><i class="" aria-hidden="true"></i></span>1800/Crate</h6>
 												<a href="javascript:;" class="shop_btn">add to cart</a>
 											</div>
 										</div>
@@ -721,10 +721,10 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="shop_slide">
 											<div class="item_image">
-												<img src="https://via.placeholder.com/195x128" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/dress3.png')}}" alt="image" class="img-fluid" />
 											</div>
 											<h5>fresh meat</h5>
-											<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+											<h6><span><i class="" aria-hidden="true"></i></span>N1750</h6>
 											<div class="item_overlay">
 												<input type="checkbox" id="wishlist2" />
 												<label for="wishlist2">
@@ -732,7 +732,7 @@ Version: 1.0.0
 													<span class="wish_icon"><i class="fa fa-heart" aria-hidden="true"></i></span>
 												</label>
 												<h5>fresh meat</h5>
-												<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+												<h6><span><i class="" aria-hidden="true"></i></span>N4000</h6>
 												<a href="javascript:;" class="shop_btn">add to cart</a>
 											</div>
 										</div>
@@ -740,10 +740,10 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="shop_slide">
 											<div class="item_image">
-												<img src="https://via.placeholder.com/195x128" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/broiler22.png')}}" alt="image" class="img-fluid" />
 											</div>
 											<h5>fresh meat</h5>
-											<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+											<h6><span><i class="" aria-hidden="true"></i></span>N4000</h6>
 											<div class="item_overlay">
 												<input type="checkbox" id="wishlist3" />
 												<label for="wishlist3">
@@ -759,10 +759,10 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="shop_slide">
 											<div class="item_image">
-												<img src="https://via.placeholder.com/195x128" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/dress22.png')}}" alt="image" class="img-fluid" />
 											</div>
 											<h5>fresh meat</h5>
-											<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+											<h6><span><i class="" aria-hidden="true"></i></span>N1750</h6>
 											<div class="item_overlay">
 												<input type="checkbox" id="wishlist4" />
 												<label for="wishlist4">
@@ -770,7 +770,7 @@ Version: 1.0.0
 													<span class="wish_icon"><i class="fa fa-heart" aria-hidden="true"></i></span>
 												</label>
 												<h5>fresh meat</h5>
-												<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+												<h6><span><i class="" aria-hidden="true"></i></span>N1750/KG</h6>
 												<a href="javascript:;" class="shop_btn">add to cart</a>
 											</div>
 										</div>
@@ -778,18 +778,18 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="shop_slide">
 											<div class="item_image">
-												<img src="https://via.placeholder.com/195x128" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/eggs3.jpg')}}" alt="image" class="img-fluid" />
 											</div>
-											<h5>fresh meat</h5>
-											<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+											<h5>fresh eggs</h5>
+											<h6><span><i class="" aria-hidden="true"></i></span>N1800/Crate</h6>
 											<div class="item_overlay">
 												<input type="checkbox" id="wishlist5" />
 												<label for="wishlist5">
 													<span class="wish_icon"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 													<span class="wish_icon"><i class="fa fa-heart" aria-hidden="true"></i></span>
 												</label>
-												<h5>fresh meat</h5>
-												<h6><span><i class="fa fa-usd" aria-hidden="true"></i></span>98</h6>
+												<h5>fresh eggs</h5>
+												<h6><span><i class="" aria-hidden="true"></i></span>1800/Crate</h6>
 												<a href="javascript:;" class="shop_btn">add to cart</a>
 											</div>
 										</div>
@@ -827,7 +827,7 @@ Version: 1.0.0
 					<div class="col-lg-6 col-md-6">
 						<div class="clv_heading">
 							<h3>blog post</h3>
-							<div class="clv_underline"><img src="images/underline3.png" alt="image" /></div>
+							<div class="clv_underline"><img src="{{asset('frontend/assets/images/underline3.png')}}" alt="image" /></div>
 							<p>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dole magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
 						</div>
 					</div>
@@ -840,14 +840,14 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="blog_slide">
 											<div class="blog_image">
-												<img src="https://via.placeholder.com/370x270" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/blog1.jpg')}}" alt="image" class="img-fluid" />
 											</div>
 											<div class="blog_content">
 												<h6 class="blog_date">jan 06, 2019</h6>
 												<h4 class="blog_title"><a href="blog_single.html">Finding reveal how neem cells</a></h4>
 												<div class="blog_user">
 													<div class="user_name">
-														<img src="images/user.png" alt="image" />
+														<img src="{{asset('frontend/assets/images/user.png')}}" alt="image" />
 														<a href="javascript:;"><span>john doe</span></a>
 													</div>
 													<div class="comment_block">
@@ -863,14 +863,14 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="blog_slide">
 											<div class="blog_image">
-												<img src="https://via.placeholder.com/370x270" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/blog2.jpg')}}" alt="image" class="img-fluid" />
 											</div>
 											<div class="blog_content">
 												<h6 class="blog_date">jan 06, 2019</h6>
 												<h4 class="blog_title"><a href="blog_single.html">Finding reveal how neem cells</a></h4>
 												<div class="blog_user">
 													<div class="user_name">
-														<img src="images/user.png" alt="image" />
+														<img src="{{asset('frontend/assets/images/user.png')}}" alt="image" />
 														<a href="javascript:;"><span>john doe</span></a>
 													</div>
 													<div class="comment_block">
@@ -886,14 +886,14 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="blog_slide">
 											<div class="blog_image">
-												<img src="https://via.placeholder.com/370x270" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/blog3.jpg')}}" alt="image" class="img-fluid" />
 											</div>
 											<div class="blog_content">
 												<h6 class="blog_date">jan 06, 2019</h6>
 												<h4 class="blog_title"><a href="blog_single.html">Finding reveal how neem cells</a></h4>
 												<div class="blog_user">
 													<div class="user_name">
-														<img src="images/user.png" alt="image" />
+														<img src="{{asset('frontend/assets/images/user.png')}}" alt="image" />
 														<a href="javascript:;"><span>john doe</span></a>
 													</div>
 													<div class="comment_block">
@@ -909,14 +909,14 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="blog_slide">
 											<div class="blog_image">
-												<img src="https://via.placeholder.com/370x270" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/blog1.jpg')}}" alt="image" class="img-fluid" />
 											</div>
 											<div class="blog_content">
 												<h6 class="blog_date">jan 06, 2019</h6>
 												<h4 class="blog_title"><a href="blog_single.html">Finding reveal how neem cells</a></h4>
 												<div class="blog_user">
 													<div class="user_name">
-														<img src="images/user.png" alt="image" />
+														<img src="{{asset('frontend/assets/images/user.png')}}" alt="image" />
 														<a href="javascript:;"><span>john doe</span></a>
 													</div>
 													<div class="comment_block">
@@ -932,14 +932,14 @@ Version: 1.0.0
 									<div class="swiper-slide">
 										<div class="blog_slide">
 											<div class="blog_image">
-												<img src="https://via.placeholder.com/370x270" alt="image" class="img-fluid" />
+												<img src="{{asset('frontend/assets/images/blog2.jpg')}}" alt="image" class="img-fluid" />
 											</div>
 											<div class="blog_content">
 												<h6 class="blog_date">jan 06, 2019</h6>
 												<h4 class="blog_title"><a href="blog_single.html">Finding reveal how neem cells</a></h4>
 												<div class="blog_user">
 													<div class="user_name">
-														<img src="images/user.png" alt="image" />
+														<img src="{{asset('frontend/assets/images/user.png')}}" alt="image" />
 														<a href="javascript:;"><span>john doe</span></a>
 													</div>
 													<div class="comment_block">
