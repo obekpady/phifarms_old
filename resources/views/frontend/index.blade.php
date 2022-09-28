@@ -1454,21 +1454,14 @@ Version: 1.0.0
 						</div>
 					</div>
 				</div>
-				<div class="clv_newsletter_wrapper">
-					<div class="newsletter_text">
-						<h2>get update from <br/>anywhere</h2>
-						<h4>subscribe us to get more info</h4>
-					</div>
-					<div class="newsletter_field">
-						<h3>don't miss out on the good news!</h3>
-						<div class="newsletter_field_block">
-							<input type="text" placeholder="Enter Your Email Here" />
-							<a href="javascript:;">subscribe now</a>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
+	<!-- our location -->	
+	
+        
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.733528276774!2d7.336209865512027!3d8.904347085720854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104e6f824f1feb63%3A0x261d2792ccadb39b!2sPHI%20FARMS!5e0!3m2!1sen!2sng!4v1664364178467!5m2!1sen!2sng" width="1800" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                                    
 		<!--Footer-->
 		<div class="clv_footer_wrapper clv_section">
 			@include('frontend.body.footer')
